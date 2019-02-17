@@ -1,5 +1,4 @@
 package org.chojs98.util;
-import org.chojs98.util.ExecuteInterface;;
 
 public class CheckExecuteDuration {
 	/*
